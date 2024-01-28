@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Ramaditya Kotha! I am a student at UCLA, expecting to graduate in 2026. I study electrical engineering, with a focus on machine learning, control theory, and data acquisition/processing.
+
+## Current Projects
+- [Bruin Racing Baja](https://github.com/Bruin-Racing-Baja/GROND)
+- VP Shunt Flow sensor
+
 <!--
 **RamadityaK/RamadityaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
