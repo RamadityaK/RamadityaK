@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ramaditya Kotha! I am a student at UCLA, expecting to graduate in 2026. I study electrical engineering, with a focus on machine learning, control theory, and data acquisition/processing.
+My name is Ramaditya Kotha! I am a student at UCLA, expecting to graduate in 2026. I study electrical engineering, with a focus on machine learning, control theory, and embedded systems.
 
 ## Current Projects
 - [Bruin Racing Baja](https://github.com/Bruin-Racing-Baja/GROND)
